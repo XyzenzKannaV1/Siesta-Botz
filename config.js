@@ -119,10 +119,10 @@ global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6048ec3e029520424c234.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
-global.giflogo = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
-global.thumbs = ['https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg','https://telegra.ph/file/6048ec3e029520424c234.jpg']
+global.thumb = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
+global.giflogo = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
+global.thumbs = ['https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
