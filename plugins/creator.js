@@ -11,21 +11,21 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
+• Owner Zifabotz tidak menerima save contact
+• Owner Zifabotz berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• Owner Zifabotz Hanya merespon yang berkaitan dengan BOT
+• No Telp owner Zifabotz`
 
 //------------ BIO
 let ppown = 'https://telegra.ph/file/02a2903c1e25228285740.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* :Bara
-❑ *Umur* :13 Tahun
-❑ *Kelas* :1 Smp
+❑ *Nama* : Rozi
+❑ *Umur* : 15 Tahun
+❑ *Kelas* : 1 Sma
 
-❑ *Ulang Tahun* :18 Okto 2008
-❑ *Alamat* : Indonesia,Jawa Barat, Bandung
+❑ *Ulang Tahun* : 4 juli 2007
+❑ *Alamat* : Indonesia, Kalimantan barat, Pontianak
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
@@ -36,9 +36,9 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata", rowId: ".owner bio"},
-	{title: "🌎 • Script", rowId: ".sc"},
+	    {title: "📱 • Nomor Rozi", rowId: ".owner nomor"},
+	{title: "🎨 • Biodata Rozi", rowId: ".owner bio"},
+	{title: "🌎 • Script yang bot gunakan", rowId: ".sc"},
 	]
     },{
 	title: `${htjava} SUPPORT ME –––––––·•`,
@@ -80,7 +80,7 @@ const listMessage = {
           break
 
         default:
-          return conn.sendButton( m.chat, caption, wm, null, [`⋮☰ Menu`, `.menu`], m)
+          return conn.send2Button( m.chat, caption, wm, null, [`⋮☰ Menu`, `.menu`, `Donasi`, `.donasi`], m)
       }
     }
   } catch (err) {
