@@ -1,9 +1,13 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
-┌─「 Donasi 」
-│ • *Gopay:* [${global.pgopay}]
-│ • *Dana:* [${global.pdana}]
-❏────
+››╭─〘 *Donasi* 〙
+╭╡📮: Donasi ngab jgan gunain doang.
+│┝‷✧ *Ovo:* [${global.povo}]
+│┝‷✧ *Dana:* [${global.pdana}]
+│┝‷✧ *Gopay:* [${global.pgopay}]
+│╰───···─────
+│⁺◛˖ Ingin Donasi? Chat nomor owner
+╰──────────···───╮
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: '🧸 YouTube 🧸', url: snh}},
