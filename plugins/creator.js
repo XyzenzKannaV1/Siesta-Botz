@@ -18,7 +18,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • No Telp owner Zifabotz`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/02a2903c1e25228285740.jpg'
+let ppown = 'https://telegra.ph/file/e8f6c7288a8d34157d54e.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
 ❑ *Nama* : Rozi
 ❑ *Umur* : 15 Tahun
@@ -31,7 +31,7 @@ ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'P - Pilih dibawah kak'
+  let teks = 'Pilih dibawah kak'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
