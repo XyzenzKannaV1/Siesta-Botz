@@ -147,7 +147,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
+global.thumbdoc = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
