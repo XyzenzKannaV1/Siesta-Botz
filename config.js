@@ -44,7 +44,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/SabilOfc'
 global.sgh = 'https://github.com/SabilBotMd'
 global.sgc = 'https://chat.whatsapp.com/L5HgwM5WjhP92v68SBEkY7'
-global.sdc = 'https://wa.me/6288980970067'
+global.sdc = 'https://wa.me/6283866366437'
 global.snh = 'https://youtube.com/channel/SabilOfc'
 
 /*============== PAYMENT ==============*/
@@ -54,17 +54,17 @@ global.pgopay = '088980870067'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283112831554'
-global.nomorown = '6288980870067'
+global.nomorown = '6283866366437'
 global.namebot = 'Siesta MD'
-global.nameown = 'Sabil Ofc'
+global.nameown = 'Ayumi Kawai'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288980870067'],
-  ['6288980870067'],
-  ['6288980870067'],
-  ['6288980870067', 'Sabil Ofc', true]
+  ['6283866366437'],
+  ['6283866366437'],
+  ['6283866366437'],
+  ['6283866366437', 'Ayumi Kawai', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,7 +115,7 @@ global.wm3 = 'Siesta MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ SABIL ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Ayumi Kawai🤗 ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
