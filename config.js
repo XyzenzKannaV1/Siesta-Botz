@@ -56,7 +56,7 @@ global.pgopay = '088980870067'
 global.nomorbot = '6283112831554'
 global.nomorown = '6283866366437'
 global.namebot = 'Siesta MD'
-global.nameown = 'Ayumi Kawai'
+global.nameown = 'Kanna Chan'
 
 
 /*============== STAFF ==============*/
@@ -64,7 +64,7 @@ global.owner = [
   ['6283866366437'],
   ['6283866366437'],
   ['6283866366437'],
-  ['6283866366437', 'Ayumi Kawai', true]
+  ['6283866366437', 'Kanna Chan', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,7 +115,7 @@ global.wm3 = 'Siesta MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ Ayumi Kawai🤗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Kanna Chan🤗 ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
