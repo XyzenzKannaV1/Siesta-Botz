@@ -20,7 +20,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* : Ayumi
+❑ *Nama* : Kanna Chan
 ❑ *Umur* : 15
 ❑ *Kelas* : 1 Sma
 
@@ -36,8 +36,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor Ayumi", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata  Ayumi", rowId: ".owner bio"},
+	    {title: "📱 • Nomor Kanna", rowId: ".owner nomor"},
+	{title: "🎨 • Biodata  Kanna", rowId: ".owner bio"},
 	{title: "🌎 • Script yang bot gunakan", rowId: ".sc"},
 	]
     },{
