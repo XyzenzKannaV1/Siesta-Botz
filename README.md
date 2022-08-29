@@ -12,69 +12,69 @@
 <p align="center">
 <a href="https://github.com/kannachann"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/kannachann/KannaBOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kannachann/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/kannachann/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/kannachann/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/kannachann/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/kannachann/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/kannachann/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta Botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta Botz/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta Botz/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kannachann/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta Botz/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/kannachann/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta Botz/issues"><img title="Issues" src="https://img.shields.io/github/issues/kannachann/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta Botz/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/kannachann/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta Botz/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/kannachann/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta Botz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/kannachann/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/62831433937633">
+  <a href="https://wa.me/6283866366437">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@knchann">
+  <a href="https://www.tiktok.com/@kannabotz">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ppiowy_/">
+  <a href="https://www.instagram.com/kannabotz">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:kannachann@gmail.com">
+  <a href="mailto:kannabotzv1@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/62831433937633"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283143393763) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62831433937633) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT) 
+## ```Whatsapp``` <a href="https://wa.me/6283866366437"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283112831554) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283866366437) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea) 
 ---------
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/kannachann) |
-| **No Internet** |[✔️](https://github.com/kannachann) |
-| **Simple** |[✔️](https://github.com/kannachann) |
-| **Button template** |[✔️](https://github.com/kannachann) |
-| **Multi Device** |[✔️](https://github.com/kannachann) |
+| **Fast Respon** |[✔️](https://github.com/XyzenzKannaV1) |
+| **No Internet** |[✔️](https://github.com/XyzenzKannaV1) |
+| **Simple** |[✔️](https://github.com/XyzenzKannaV1) |
+| **Button template** |[✔️](https://github.com/XyzenzKannaV1) |
+| **Multi Device** |[✔️](https://github.com/XyzenzKannav1) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/kannachann) |
-| **Internet** |[✔️](https://github.com/kannachann) |
-| **Game Rpg** |[✔️](https://github.com/kannachann) |
-| **Nsfw** |[✖️](https://github.com/kannachann) |
-| **Sticker** |[✔️](https://github.com/kannachann) |
-| **Game** |[✔️](https://github.com/kannachann) |
-| **Kerang Ajaib** |[✔️](https://github.com/kannachann) |
-| **Quotes** |[✔️](https://github.com/kannachann) |
-| **Anime** |[✔️](https://github.com/kannachann) |
-| **Premium** |[✖️](https://github.com/kannachann) |
-| **Tools** |[✔️](https://github.com/kannachann) |
-| **Exec** |[✔️](https://github.com/kannachann) |
-| **React** |[✔️](https://github.com/kannachann) |
+| **Downloader** |[✔️](https://github.com/XyzenzKannav1) |
+| **Internet** |[✔️](https://github.com/XyzenzKannav1) |
+| **Game Rpg** |[✔️](https://github.com/XyzenzKannav1) |
+| **Nsfw** |[✖️](https://github.com/XyzenzKannav1) |
+| **Sticker** |[✔️](https://github.com/XyzenzKannav1) |
+| **Game** |[✔️](https://github.com/XyzenzKannav1) |
+| **Kerang Ajaib** |[✔️](https://github.com/XyzenzKannav1) |
+| **Quotes** |[✔️](https://github.com/XyzenzKannav1) |
+| **Anime** |[✔️](https://github.com/XyzenzKannav1) |
+| **Premium** |[✖️](https://github.com/XyzenzKannav1) |
+| **Tools** |[✔️](https://github.comXyzenzKannav1/) |
+| **Exec** |[✔️](https://github.com/XyzenzKannav1) |
+| **React** |[✔️](https://github.com/XyzenzKannav1) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/XyzenzKannaV1/Siesta Botz/blob/multi-device/config.js#L1)
+- Owner Name [Here](https://github.com/XyzenzKannaV1/Siesta Botz/blob/multi-device/config.js#L1)
+- Bot Name [Here](https://github.com/XyzenzKannaV1/Siesta Botz/blob/multi-device/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
@@ -92,8 +92,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/kannachann/KannaBOT-MD/
-$ cd KannaBOT-MD
+$ git clone https://github.com/XyzenzKannav1/Siesta Botz/
+$ cd Siesta Botz
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -135,8 +135,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/kannachann/KannaBOT-MD/
-cd KannaBOT-MD
+git clone https://github.com/XyzenzKannav1/Siesta Botz/
+cd Siesta Botz
 npm install
 npm update
 ```
@@ -151,8 +151,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/kannachann/KannaBOT-MD/
-cd KannaBOT-MD
+git clone https://github.com/XyzenzKannaV1/Siesta Botz/
+cd Siesta Botz
 npm install
 npm update
 ```
@@ -241,17 +241,17 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/kannachann)
-* [`My parents`](https://github.com/kannachann)
-* [`All Friends`](https://github.com/kannachann)
-* [`All Contributors`](https://github.com/kannachann)
-* [`All Creator Bot`](https://github.com/kannachann)
+* [`Allah SWT`](https://github.com/XyzenzKannav1)
+* [`My parents`](https://github.com/XyzenzKannav1)
+* [`All Friends`](https://github.com/XyzenzKannav1)
+* [`All Contributors`](https://github.com/XyzenzKannav1)
+* [`All Creator Bot`](https://github.com/XyzenzKannav1)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
 
 ## ```Recode By 🐾```
-[![kannachann](https://github.com/kannachann.png?size=100)](https://github.com/kannachann)
+[![XyzenzKannav1](https://github.com/XyzenzKannav1.png?size=100)](https://github.com/XyzenzKannav1)
 
 ## ```Contributor 🔭```
 * [`SadBOY01`](https://github.com/sadboy01)
