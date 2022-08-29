@@ -1,25 +1,25 @@
 <p align="center">
     <img src="https://telegra.ph/file/4ee6b246627f8ac4dbcff.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">KannaBOT - MD</h1>
+<h1 align="center">XyzenzKannaV1</h1>
 <p align="center">
-  <a href="https://github.com/kannachann"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/">XyzenzKannaV1<img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
  <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/kannachann"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/XyzenzKannaV1"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/XyzenzKannaV1/Siesta Botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/XyzenzKannaV1/Siesta Botz/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/XyzenzKannaV1/Siesta Botz/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kannachann/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/XyzenzKannaV1/Siesta Botz/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/kannachann/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/XyzenzKannaV1/Siesta Botz/issues"><img title="Issues" src="https://img.shields.io/github/issues/kannachann/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/XyzenzKannaV1/Siesta Botz/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/kannachann/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/XyzenzKannaV1/Siesta Botz/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/kannachann/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/XyzenzKannaV1/Siesta Botz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/kannachann/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kannachann/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/kannachann/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/issues"><img title="Issues" src="https://img.shields.io/github/issues/kannachann/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/kannachann/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/kannachann/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/kannachann/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
@@ -72,9 +72,9 @@
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/XyzenzKannaV1/Siesta Botz/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/XyzenzKannaV1/Siesta Botz/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/XyzenzKannaV1/Siesta Botz/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/XyzenzKannaV1/Siesta-Botz/blob/multi-device/config.js#L1)
+- Owner Name [Here](https://github.com/XyzenzKannaV1/Siesta-Botz/blob/multi-device/config.js#L1)
+- Bot Name [Here](https://github.com/XyzenzKannaV1/Siesta-Botz/blob/multi-device/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
@@ -92,8 +92,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/XyzenzKannav1/Siesta Botz/
-$ cd Siesta Botz
+$ git clone https://github.com/XyzenzKannav1/Siesta-Botz/
+$ cd Siesta-Botz
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -151,7 +151,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/XyzenzKannaV1/Siesta Botz/
+git clone https://github.com/XyzenzKannaV1/Siesta-Botz/
 cd Siesta Botz
 npm install
 npm update
