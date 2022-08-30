@@ -41,16 +41,16 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/SabilOfc'
-global.sgh = 'https://github.com/SabilBotMd'
+global.sig = 'https://instagram.com/XyzenzKannaV1'
+global.sgh = 'https://github.com/XyzenzKannaV1'
 global.sgc = 'https://chat.whatsapp.com/L5HgwM5WjhP92v68SBEkY7'
 global.sdc = 'https://wa.me/6283866366437'
-global.snh = 'https://youtube.com/channel/SabilOfc'
+global.snh = 'https://youtube.com/channel/Siesta Botz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088980870067'
-global.povo = '088980870067'
-global.pgopay = '088980870067'
+global.pdana = '083866366437'
+global.povo = '083866366437'
+global.pgopay = '083866366437'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283112831554'
