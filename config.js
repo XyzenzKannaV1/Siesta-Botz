@@ -41,30 +41,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/XyzenzKannaV1'
-global.sgh = 'https://github.com/XyzenzKannaV1'
-global.sgc = 'https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea'
-global.sdc = 'https://wa.me/6283866366437'
+global.sig = 'https://instagram.com/mhdkrnwnn_'
+global.sgh = 'https://github.com/wannjbaja'
+global.sgc = 'https://chat.whatsapp.com/GwCTefLrBr85NFFrqDE1pK'
+global.sdc = 'https://wa.me/62895327999292'
 global.snh = 'https://youtube.com/channel/Siesta Botz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083866366437'
-global.povo = '083866366437'
-global.pgopay = '083866366437'
+global.pdana = '0895327999292'
+global.povo = '0895327999292'
+global.pgopay = '089518377899'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283112831554'
-global.nomorown = '6283866366437'
-global.namebot = 'Siesta MD'
-global.nameown = 'Kanna Chan'
+global.nomorbot = '62895327999292'
+global.nomorown = '62895327999292'
+global.namebot = 'WannTrue Bot'
+global.nameown = 'WannTrue'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437', 'Kanna Chan', true]
+  ['62895327999292'],
+  ['62895327999292'],
+  ['62895327999292'],
+  ['62895327999292', 'Kanna Chan', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
