@@ -1,0 +1,20 @@
+{
+  "thumb": "https://telegra.ph/file/2341547cc8ac2684b9408.jpg",
+  "namebot": "Kanade ClanZ",
+  "botNumber": "6288225359794@s.whatsapp.net",
+  "owner": ["6288980870067@s.whatsapp.net"],
+  "instagram": "https://instagram.com/KanadeClanZ",
+  "author": "ᴀɪ ʜᴇɴɢᴋᴇʀ",
+  "session": "senku-md",
+  "email": "kannabotzv1@gmail.com",
+  "self": false,
+  "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+  "packInfo":{
+    "packname": "Kanade",
+    "author": "Beta ✓"
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "Asia/Jakarta"
+}
